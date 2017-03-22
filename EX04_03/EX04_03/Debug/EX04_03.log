@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\kelsey\documents\school assignments\cs2\ex04\ex04_03\ex04_03\main.cpp(46): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  EX04_03.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\EX04\EX04_03\Debug\EX04_03.exe
+  EX04_03.vcxproj -> C:\Users\Kelsey\Documents\School Assignments\CS2\EX04\EX04_03\Debug\EX04_03.pdb (Full PDB)
